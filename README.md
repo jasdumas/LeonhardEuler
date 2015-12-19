@@ -1,2 +1,4 @@
 # LeonhardEuler
-My Solved Project Euler Problems - https://projecteuler.net/
+My *solved or attempted* Project Euler Problems - https://projecteuler.net/
+
+![](https://projecteuler.net/profile/jasdumas.png)
